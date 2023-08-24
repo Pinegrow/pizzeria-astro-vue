@@ -1,0 +1,27 @@
+---
+import Layout from '../layouts/Layout.astro'
+import HeroSection from '../components/HeroSection.vue'
+import FeatureSection from '../components/FeatureSection.vue'
+import TheDivider from '../components/TheDivider.vue'
+import DeliverySection from '../components/DeliverySection.vue'
+import SubscribeSection from '../components/SubscribeSection.vue'
+import PizzaStore from '../components/PizzaStore.vue'
+
+const name = "I'm a hero!"
+const response = await fetch(
+  'https://my-json-server.typicode.com/Pinegrow/pizzeria-iles/pizzas',
+)
+const pizzas = await response.json()
+---
+
+<Layout title="Home">
+  <main>
+    <HeroSection />
+    <FeatureSection />
+    <TheDivider />
+    <PizzaStore client:visible {pizzas} />
+    <DeliverySection />
+    <SubscribeSection />
+  </main>
+</Layout>
+<style></style>

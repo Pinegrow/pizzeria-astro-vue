@@ -1,0 +1,52 @@
+{
+  "pizzas": [
+    {
+      "name": "Classic Pizza",
+      "description": "The pizza that started it all. It will make you feel like you are in Italy, even if you are just in your living room.",
+      "image": "https://images.unsplash.com/photo-1593246049226-ded77bf90326?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDIxfHxwaXp6YXxlbnwwfHx8fDE2MzEwODA3Njg&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=600&h=600&fit=crop",
+      "price": "$ 16.00"
+    },
+    {
+      "name": "Rompipalle Pizza",
+      "description": "This pizza will make you forget all your troubles. It's so good, it will put a smile on your face even if you're having a bad day.",
+      "image": "https://images.unsplash.com/photo-1609159085820-d9a6ff0f469e?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDIyM3x8cGl6emF8ZW58MHx8fHwxNjMxMDkyMTUz&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=600&h=600&fit=crop",
+      "price": "$ 16.00"
+    },
+    {
+      "name": "Fire & Ice Pizza",
+      "description": "This pizza is the perfect combination of hot and cold. It will give your taste buds a thrilling experience they won't forget.",
+      "image": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDYyfHxwaXp6YXxlbnwwfHx8fDE2MzEwODA4NzU&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=600&h=600&fit=crop",
+      "price": "$ 16.00"
+    },
+    {
+      "name": "Pizza Di Casa Mia",
+      "description": "This pizza will make you feel like you're eating at home. It has all the flavors and comforts of a homemade pizza.",
+      "image": "https://images.unsplash.com/photo-1564936281291-294551497d81?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDEyNXx8cGl6emF8ZW58MHx8fHwxNjMxMDkyMDgy&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=600&h=600&fit=crop",
+      "price": "$ 16.00"
+    },
+    {
+      "name": "Parigina Pizza",
+      "description": "This pizza is inspired by the streets of Paris. It's a unique combination of French and Italian flavors that will transport you to the city of love.",
+      "image": "https://images.unsplash.com/photo-1565564194296-14db6e0bf8a3?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDEwMnx8cGl6emF8ZW58MHx8fHwxNjMxMDgwOTQw&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=600&h=600&fit=crop",
+      "price": "$ 16.00"
+    },
+    {
+      "name": "Ettore Pizza",
+      "description": "This pizza is named after our chef Ettore. It's his secret recipe that he has perfected over the years. You won't find it anywhere else.",
+      "image": "https://images.unsplash.com/photo-1604917869287-3ae73c77e227?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDEyOXx8cGl6emF8ZW58MHx8fHwxNjMxMDkyMDgy&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=600&h=600&fit=crop",
+      "price": "$ 16.00"
+    },
+    {
+      "name": "La Regina Pizza",
+      "description": "This pizza is fit for a queen. It's made with the freshest ingredients and the finest toppings. You won't be disappointed.",
+      "image": "https://images.unsplash.com/photo-1620894599483-aefd71cb525f?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDEzMXx8cGl6emF8ZW58MHx8fHwxNjMxMDkyMDgy&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=600&h=600&fit=crop",
+      "price": "$ 16.00"
+    },
+    {
+      "name": "Paesana Pizza",
+      "description": "This pizza is a tribute to our Italian heritage. It's made with love and passion, just like Nonna used to make it.",
+      "image": "https://images.unsplash.com/photo-1572785031839-8d006462dcd4?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDEyN3x8cGl6emF8ZW58MHx8fHwxNjMxMDkyMDgy&ixlib=rb-1.2.1q=85&fm=jpg&crop=faces&cs=srgb&w=600&h=600&fit=crop",
+      "price": "$ 16.00"
+    }
+  ]
+}
