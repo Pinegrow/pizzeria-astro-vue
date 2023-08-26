@@ -1,3 +1,15 @@
+# Pizzeria with Astro
+
+This repository was live-designed with Vue Designer by following the free YouTube course "**Pizzeria Static HTML into Vue Islands with 🏝 Iles, Vitepress & Astro**", which is part of the "**Learn With Vue Designer**" series. Check it out [here](https://docs.pinegrow.com/docs/vue/tutorials-courses/).
+
+"**Pizzeria**" is a simple MPA-SSG for a pizza shop that displays a list of pizzas in its store and allows users to add the pizzas to a cart. The cart is maintained in a `cart` composable and displays the cart size on a floating cart button.
+
+This is a sample project created using:
+- Source HTML page - https://library.pinegrow.com/tailwind/templates/yummypizza_tw/
+- Starter Template - [Vue Designer Astro Tailwind CSS - Quick start template](https://github.com/pinegrow/pg-astro-tailwindcss-custom) (see next section for its Readme)
+
+Final Output Demo - https://wondrous-malabi-04e0bd.netlify.app/
+
 # Vue Designer Astro Tailwind CSS - Quick start template
 
 This is a starter template that pre-includes the [Pinegrow Astro Module](https://www.npmjs.com/package/@pinegrow/astro-module), [Pinegrow Tailwind CSS Plugin](https://www.npmjs.com/package/@pinegrow/tailwindcss-plugin) and other goodies for Vue Designer.
@@ -72,7 +84,7 @@ Check out the [deployment documentation](https://docs.astro.build/en/guides/depl
   - 🔌 **[Batteries Included]** - layouts, components, site-wide data
   - 🧱 **[Multi-Framework]** - vue, react, preact, svelte, solid, etc
   - 📖 **[Markdown]** - use components in markdown and viceversa
-  - 🛣 **[Routing]** - automatically configured from files
+  - 🛣 **[Routing]** - automatically configured from f
   - ⚡️ **[Fast][vite]** - instant reloading powered by [Vite]
 
 ### UI Frameworks
