@@ -1,5 +1,5 @@
 /* Pinegrow generated Design Panel Init Begin */
-@import url('https://fonts.googleapis.com/css?family=Space+Grotesk:300,400,500,600,700|Expletus+Sans:400,500,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Asap:400,500,600,700|Sora:100,200,300,400,500,600,700,800&display=swap');
 
 /* Pinegrow generated Design Panel Init End */
 @tailwind base;
@@ -56,7 +56,7 @@ h6 {
 }
 
 .poster:before {
-  background-image: url(https://images.unsplash.com/photo-1682687981974-c5ef2111640c?ixid=M3wyMDkyMnwxfDF8c2VhcmNofDF8fHdhbGxwYXBlcnxlbnwwfHx8fDE2OTI4NTAyMDN8MA&ixlib=rb-4.0.3q=85&fm=jpg&crop=faces&cs=srgb&w=1200&fit=max) !important;
+  background-image: url(https://images.unsplash.com/photo-1592170882301-7cecc5ed99ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3wyMDkyMnwwfDF8c2VhcmNofDR8fG1hbmRhbG9yaWFufGVufDB8fHx8MTY5Mjg1MDA5NHww&ixlib=rb-4.0.3&q=85) !important;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -76,7 +76,7 @@ body.poster:before {
   (min-width: 992px) and (-webkit-min-device-pixel-ratio: 2),
   (min-width: 992px) and (min-resolution: 192dpi) {
   .poster:before {
-    background-image: url(https://images.unsplash.com/photo-1682687981974-c5ef2111640c?ixid=M3wyMDkyMnwxfDF8c2VhcmNofDF8fHdhbGxwYXBlcnxlbnwwfHx8fDE2OTI4NTAyMDN8MA&ixlib=rb-4.0.3q=85&fm=jpg&crop=faces&cs=srgb&w=2000&fit=max) !important;
+    background-image: url(https://images.unsplash.com/photo-1592170882301-7cecc5ed99ec?crop=entropy&cs=srgb&fm=jpg&ixid=M3wyMDkyMnwwfDF8c2VhcmNofDR8fG1hbmRhbG9yaWFufGVufDB8fHx8MTY5Mjg1MDA5NHww&ixlib=rb-4.0.3&q=85) !important;
   }
 }
 body,
