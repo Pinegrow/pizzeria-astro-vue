@@ -5,10 +5,11 @@ This repository was live-designed with Vue Designer by following the free YouTub
 "**Pizzeria**" is a simple MPA-SSG for a pizza shop that displays a list of pizzas in its store and allows users to add the pizzas to a cart. The cart is maintained in a `cart` composable and displays the cart size on a floating cart button.
 
 This is a sample project created using:
+
 - Source HTML page - https://library.pinegrow.com/tailwind/templates/yummypizza_tw/
 - Starter Template - [Vue Designer Astro Tailwind CSS - Quick start template](https://github.com/pinegrow/pg-astro-tailwindcss-custom) (see next section for its Readme)
 
-Final Output Demo - https://wondrous-malabi-04e0bd.netlify.app/
+Final Output Demo - https://pg-pizzeria-astro.netlify.app/
 
 # Vue Designer Astro Tailwind CSS - Quick start template
 
