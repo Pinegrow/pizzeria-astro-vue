@@ -1,11 +1,11 @@
 {
-  "name": "pizzeria-astro",
+  "name": "pizzeria-astro-vue",
   "type": "module",
   "version": "0.0.1",
-  "homepage": "https://pg-pizzeria-astro.netlify.app/",
+  "homepage": "https://pizzeria-astro-vue.netlify.app/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pinegrow/pizzeria-astro.git"
+    "url": "https://github.com/pinegrow/pizzeria-astro-vue.git"
   },
   "scripts": {
     "dev": "astro dev",

@@ -1,3 +1,4 @@
+<!-- FloatingCart.svelte -->
 <script lang="ts">
   import FloatingButton from './FloatingButton.svelte'
   import { useCartStore } from '../stores/cart'
