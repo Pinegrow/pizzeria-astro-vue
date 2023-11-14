@@ -1,7 +1,8 @@
 ---
 import MetaTags from '../components/MetaTags.vue'
 import NavBar from '../components/NavBar.vue'
-import FloatingCart from '../components/FloatingCart.vue'
+import FloatingCartStoreActivator from '../components/FloatingCartStoreActivator.vue'
+import FloatingCart from '../components/FloatingCart.svelte'
 import TheFooter from '../components/TheFooter.svelte'
 import '../assets/css/tailwind.css'
 export interface Props {
@@ -26,7 +27,8 @@ const currentPath = Astro.url.pathname
       <div
         class="flex flex-col bg-white dark:bg-neutral-950 text-neutral-900 dark:text-neutral-50"
       >
-        <FloatingCart class="bottom-12 fixed right-2 z-20" client:load />
+        <FloatingCartStoreActivator client:load />
+        <FloatingCart client:idle />
         <NavBar
           class={currentPath === '/' ? 'absolute bg-transparent z-10' : ''}
           client:load

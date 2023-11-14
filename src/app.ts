@@ -13,10 +13,10 @@ import type { App } from 'vue'
 import '@/assets/css/tailwind.css'
 import 'prismjs/themes/prism-tomorrow.css'
 
-import pinia from '@/plugins/pinia'
+// import pinia from '@/plugins/pinia'
 import head from '@/plugins/head'
 
 export default (app: App) => {
-  app.use(pinia)
+  // app.use(pinia)
   app.use(head)
 }
