@@ -2,7 +2,7 @@
 
 This is a starter template that pre-includes the [Pinegrow Astro Module](https://www.npmjs.com/package/@pinegrow/astro-module), [Pinegrow Tailwind CSS Plugin](https://www.npmjs.com/package/@pinegrow/tailwindcss-plugin) and other goodies for Vue Designer.
 
-Demo - https://pg-pizzeria-astro.netlify.app/
+Demo - https://pizzeria-astro.netlify.app/
 
 ## Vue Designer
 
